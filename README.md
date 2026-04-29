@@ -182,3 +182,7 @@ vless://<uuid>@<front-host>:<front-port>/?type=ws&encryption=none&host=<worker-h
 - VPN Gate 官网：<https://www.vpngate.net/>
 - VPN Gate 公共服务器列表：<https://www.vpngate.net/en/volunteer_servers.aspx?number=0>
 - 频道 / 交流群组：<https://t.me/Enkelte_notif>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ToiCF/CF-Workers-SoftEther.svg?variant=adaptive)](https://starchart.cc/ToiCF/CF-Workers-SoftEther)
